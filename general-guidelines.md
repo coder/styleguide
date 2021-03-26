@@ -1,5 +1,6 @@
 # General guidelines
 
+- Use sentence case, even in titles (do not punctuate the title, though)
 - Use the second person
 - Use the active voice
 - Use plural nouns and pronouns (*they*, *their*, or *them*), especially when
