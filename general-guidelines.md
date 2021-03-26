@@ -24,3 +24,12 @@ following third-party references:
 | Spelling | [Merriam-Webster.com](https://www.merriam-webster.com/) |
 | Style - nontechnical | [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) |
 | Style - technical | [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/) |
+
+## Tools
+
+The following are tools that you can use to edit your writing. However, take the
+suggestions provided with a grain of salt.
+
+- [alex.js](https://alexjs.com/)
+- [Grammarly](https://app.grammarly.com/)
+- [Hemingway Editor](https://hemingwayapp.com/)
