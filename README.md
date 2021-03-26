@@ -1,4 +1,4 @@
-## Product Docs Style Guide
+# Product Docs Style Guide
 
 This style guide is primarily for use with [Coder docs](coder.com/docs). It does not
 supersede any of Coder's style guides; rather it augments any existing style
