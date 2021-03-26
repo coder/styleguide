@@ -16,7 +16,7 @@ such as the word appearing at the beginning of a sentence).
 
 - account dormancy
 - command-line interface (unless you're referring to the Coder CLI; if so, use
-  Coder Command-Line Interface)
+  *Coder Command-Line Interface*)
 - environment
 - image
 - registries
