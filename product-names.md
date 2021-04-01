@@ -23,8 +23,7 @@ such as the word appearing at the beginning of a sentence):
 - account dormancy
 - audit logs
 - autostart
-- command-line interface (unless you're referring to the Coder CLI; if so, use
-  *Coder Command-Line Interface* or *Coder CLI*)
+- command-line interface
 - dev URLs
 - environment
 - image
