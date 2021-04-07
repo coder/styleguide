@@ -11,9 +11,9 @@ products:
 - Coder Enterprise
 - Coder Cloud
 
-The exception is code-server, which is always lowercase. If it appears at the
-beginning of the sentence, it is capitalized, but we encourage you to rewrite
-the sentence to avoid this usage if possible.
+The exception is **code-server**, which is always lowercase. If it appears at the
+beginning of the sentence, it is capitalized, but we **strongly encourage** you to
+rewrite the sentence to avoid this usage.
 
 ## Uncapitalized terms
 
