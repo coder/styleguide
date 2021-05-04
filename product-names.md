@@ -7,9 +7,7 @@ This article summarizes the guidelines regarding how Coder terms should be used.
 The only Coder-specific terms that should be capitalized are the names of
 products:
 
-- Coder Free
-- Coder Enterprise
-- Coder Cloud
+- Coder 
 
 The exception is **code-server**, which is always lowercase. If it appears at the
 beginning of the sentence, it is capitalized, but we **strongly encourage** you to
